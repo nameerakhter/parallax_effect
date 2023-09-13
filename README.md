@@ -1,6 +1,7 @@
 # Project README - Parallax Effect Project
 
-<img src="https://imgtr.ee/images/2023/07/21/a1b509ab1d6f55f63c42cc65746bda46.png" alt="a1b509ab1d6f55f63c42cc65746bda46.png" border="0" />
+
+<img width="1280" alt="Screenshot 2023-07-21 185304" src="https://github.com/nameerakhter/parallax_effect/assets/120779958/384224ee-f2b6-44db-b36c-9c2a9cbede4e">
 
 # Description
 
